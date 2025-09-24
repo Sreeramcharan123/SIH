@@ -1,0 +1,16 @@
+body {
+    background: url('https://cdn.narendramodi.in/cmsuploads/0.73877400_1523541569_attachref.png') 
+                no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+.card {
+    margin: auto;
+    margin-top: 5em;
+    max-width: 400px;
+    background: rgba(255, 255, 255, 0.9); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
